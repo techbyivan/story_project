@@ -1,7 +1,10 @@
 .container {
     display: flex;
-    background-color: rgb(255, 227, 194);
+    background-color: rgb(255, 239, 221)
+}
 
+.navbar {
+    padding: 20px;
 }
 
 .core {
@@ -27,5 +30,13 @@ p {
 .rose {
     width: 500px;
     height: 500px;
-    margin-left: 40px
+    margin-left: 40px;
+    margin-top: 20px
+}
+
+.btn{
+    background-color: white;
+    align-items: flex-end;
+    padding: 5px;
+    margin: 2px
 }
