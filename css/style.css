@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    background-color: rgb(255, 227, 194);
+
+}
+
+.core {
+    display: flex;
+    flex-flow: wrap;
+    margin: 30px
+}
+
+p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    max-width: 50%;
+    margin-bottom: 10px;
+}
+
+.story {
+    font-size: 20px;
+    min-width: 500px;
+    max-width: 400px;
+    margin-top: 0px;
+}
+
+.rose {
+    width: 500px;
+    height: 500px;
+    margin-left: 40px
+}
